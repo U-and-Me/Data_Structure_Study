@@ -13,22 +13,34 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\sec.00">
+    <Filter Include="소스 파일\sec.01">
       <UniqueIdentifier>{b68306e3-2427-472a-aabb-3e9c6de0d413}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\sec.02">
+      <UniqueIdentifier>{55a8e097-dbb8-4fd3-ae2c-2ebd17e7a08b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sec.00\InitC.c">
-      <Filter>소스 파일\sec.00</Filter>
+    <ClCompile Include="sec.02\InitC.c">
+      <Filter>소스 파일\sec.02</Filter>
     </ClCompile>
-    <ClCompile Include="sec.00\exam01.c">
-      <Filter>소스 파일\sec.00</Filter>
+    <ClCompile Include="sec.02\exam01.c">
+      <Filter>소스 파일\sec.02</Filter>
     </ClCompile>
-    <ClCompile Include="sec.00\exam02.c">
-      <Filter>소스 파일\sec.00</Filter>
+    <ClCompile Include="sec.02\exam02.c">
+      <Filter>소스 파일\sec.02</Filter>
     </ClCompile>
-    <ClCompile Include="sec.00\exam03.c">
-      <Filter>소스 파일\sec.00</Filter>
+    <ClCompile Include="sec.01\exam01.c">
+      <Filter>소스 파일\sec.01</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.01\exam02.c">
+      <Filter>소스 파일\sec.01</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.01\exam03.c">
+      <Filter>소스 파일\sec.01</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.01\InitC.c">
+      <Filter>소스 파일\sec.01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

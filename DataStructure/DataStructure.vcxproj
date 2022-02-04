@@ -19,10 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sec.00\exam01.c" />
-    <ClCompile Include="sec.00\exam02.c" />
-    <ClCompile Include="sec.00\exam03.c" />
-    <ClCompile Include="sec.00\InitC.c" />
+    <ClCompile Include="sec.01\exam01.c" />
+    <ClCompile Include="sec.01\exam02.c" />
+    <ClCompile Include="sec.01\exam03.c" />
+    <ClCompile Include="sec.01\InitC.c" />
+    <ClCompile Include="sec.02\exam01.c" />
+    <ClCompile Include="sec.02\exam02.c" />
+    <ClCompile Include="sec.02\InitC.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
