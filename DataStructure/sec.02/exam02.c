@@ -11,7 +11,7 @@ int main() {
 	int word_cnt = 0;
 
 	while (word_cnt < 4 && scanf("%s", buffer) != EOF) {
-		words[word_cnt] = strdup(buffer);
+		words[word_cnt] = _strdup(buffer);
 		word_cnt++;
 	}
 

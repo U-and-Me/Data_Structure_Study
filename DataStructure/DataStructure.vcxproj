@@ -26,6 +26,8 @@
     <ClCompile Include="sec.02\exam01.c" />
     <ClCompile Include="sec.02\exam02.c" />
     <ClCompile Include="sec.02\InitC.c" />
+    <ClCompile Include="sec.03\test01.c" />
+    <ClCompile Include="sec.03\test02.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

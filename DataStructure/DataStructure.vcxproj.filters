@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\sec.02">
       <UniqueIdentifier>{55a8e097-dbb8-4fd3-ae2c-2ebd17e7a08b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\sec.03">
+      <UniqueIdentifier>{cc7f419b-5879-4294-acf7-d878fb7efa77}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="sec.02\InitC.c">
@@ -41,6 +44,12 @@
     </ClCompile>
     <ClCompile Include="sec.01\InitC.c">
       <Filter>소스 파일\sec.01</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.03\test01.c">
+      <Filter>소스 파일\sec.03</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.03\test02.c">
+      <Filter>소스 파일\sec.03</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
