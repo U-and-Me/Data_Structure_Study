@@ -32,6 +32,8 @@
     <ClCompile Include="sec.04\phone_directory.c" />
     <ClCompile Include="sec.05\InitC.c" />
     <ClCompile Include="sec.05\phone_directory.c" />
+    <ClCompile Include="sec.06\InitC.c" />
+    <ClCompile Include="sec.06\phone_directory.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

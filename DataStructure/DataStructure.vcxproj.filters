@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\sec.05">
       <UniqueIdentifier>{b38b8489-58e1-4484-9672-9b1c28843557}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\sec.06">
+      <UniqueIdentifier>{1dc7fe42-90a9-478d-aa2e-e88dac591701}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="sec.02\InitC.c">
@@ -68,6 +71,12 @@
     </ClCompile>
     <ClCompile Include="sec.05\InitC.c">
       <Filter>소스 파일\sec.05</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.06\phone_directory.c">
+      <Filter>소스 파일\sec.06</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.06\InitC.c">
+      <Filter>소스 파일\sec.06</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
