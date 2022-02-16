@@ -34,6 +34,9 @@
     <ClCompile Include="sec.05\phone_directory.c" />
     <ClCompile Include="sec.06\InitC.c" />
     <ClCompile Include="sec.06\phone_directory.c" />
+    <ClCompile Include="sec.07\exam_strtok1.c" />
+    <ClCompile Include="sec.07\exam_strtok2.c" />
+    <ClCompile Include="sec.07\InitC.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\sec.06">
       <UniqueIdentifier>{1dc7fe42-90a9-478d-aa2e-e88dac591701}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\sec.07">
+      <UniqueIdentifier>{4b3b8c2e-e851-4379-b545-1850cb563690}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="sec.02\InitC.c">
@@ -77,6 +80,15 @@
     </ClCompile>
     <ClCompile Include="sec.06\InitC.c">
       <Filter>소스 파일\sec.06</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.07\exam_strtok1.c">
+      <Filter>소스 파일\sec.07</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.07\exam_strtok2.c">
+      <Filter>소스 파일\sec.07</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.07\InitC.c">
+      <Filter>소스 파일\sec.07</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
